@@ -1,0 +1,7 @@
+{
+    "discord": {
+        "owner": "<<OWNER ID>>",
+        "token": "<<BOT TOKEN>>",
+        "prefixes": ["<<PREFIXES>>", "<<HERE>>"]
+    }
+}
